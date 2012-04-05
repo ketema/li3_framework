@@ -4,3 +4,6 @@
 [submodule "lib/flash"]
 	path = lib/flash
 	url = git@gecko.midnightoilconsulting.com:li3_flash.git
+[submodule "lib/li3_access"]
+	path = lib/li3_access
+	url = git@gecko.midnightoilconsulting.com:li3_flash.git
