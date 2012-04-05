@@ -7,3 +7,6 @@
 [submodule "lib/li3_access"]
 	path = lib/li3_access
 	url = git@gecko.midnightoilconsulting.com:li3_flash.git
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = git@gecko.midnightoilconsulting.com:bootstrap.git
