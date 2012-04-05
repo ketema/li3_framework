@@ -18,7 +18,7 @@
  * applications, you may need to manually set things like `LITHIUM_LIBRARY_PATH`. You can do that in
  * `config/bootstrap.php`, which is loaded below:
  */
-require dirname(__DIR__) . '/config/bootstrap.php';
+require dirname(__DIR__) . '/app/config/bootstrap.php';
 
 /**
  * The following will instantiate a new `Request` object and pass it off to the `Dispatcher` class.

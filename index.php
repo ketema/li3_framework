@@ -6,6 +6,6 @@
  * @license       http://opensource.org/licenses/bsd-license.php The BSD License
  */
 
-require 'app/webroot/index.php';
+require '/pub/index.php';
 
 ?>
