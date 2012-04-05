@@ -1,0 +1,3 @@
+[submodule "lib/lithium"]
+	path = lib/lithium
+	url = git@gecko.midnightoilconsulting.com:lithium.git
