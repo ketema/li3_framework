@@ -10,3 +10,6 @@
 [submodule "lib/bootstrap"]
 	path = lib/bootstrap
 	url = git@gecko.midnightoilconsulting.com:bootstrap.git
+[submodule "lib/li3_less"]
+	path = lib/li3_less
+	url = git@gecko.midnightoilconsulting.com:li3_less.git
